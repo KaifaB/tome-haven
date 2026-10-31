@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tome-haven/static/css/main.433f1488.css",
+    "main.js": "/tome-haven/static/js/main.47d2f8d7.js",
+    "static/js/453.f27fc266.chunk.js": "/tome-haven/static/js/453.f27fc266.chunk.js",
+    "index.html": "/tome-haven/index.html",
+    "main.433f1488.css.map": "/tome-haven/static/css/main.433f1488.css.map",
+    "main.47d2f8d7.js.map": "/tome-haven/static/js/main.47d2f8d7.js.map",
+    "453.f27fc266.chunk.js.map": "/tome-haven/static/js/453.f27fc266.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433f1488.css",
+    "static/js/main.47d2f8d7.js"
+  ]
+}
